@@ -1,4 +1,5 @@
 ---
+layout: null
 ---
 <!doctype html>
 <html lang="en" dir="ltr">
@@ -6,7 +7,7 @@
   <meta charset="utf-8" />
   <title>Axena Hospitality</title>
 </head>
-<body>
+<body markdown="1">
 
 # Axena Hospitality
 Management and Consulting Services for Fine Hotels and Restaurants
