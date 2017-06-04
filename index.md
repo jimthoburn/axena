@@ -1,13 +1,6 @@
 ---
-layout: null
+layout: default
 ---
-<!doctype html>
-<html lang="en" dir="ltr">
-<head>
-  <meta charset="utf-8" />
-  <title>Axena Hospitality</title>
-</head>
-<body markdown="1">
 
 # Axena Hospitality
 Management and Consulting Services for Fine Hotels and Restaurants
@@ -73,6 +66,3 @@ Fountain Valley. C. 92708
 Phone (714) 847-5333
 
 Fax (714) 825-0578
-
-</body>
-</html>
