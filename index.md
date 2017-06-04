@@ -50,7 +50,8 @@ As a successful manager, you must exhibit many skills and command much specializ
 *   A manager wants to make the guest feel welcome. This requires both a friendly manner on your part toward the guest and an atmosphere of liberality and good will among the people who work with you in serving the guest. That always translates to an organization in which workers get along well with another.
 *   Managers wants to make things work for the guest. Food has to be savory, hot or cold according to design, and on time. Beds must be made and rooms cleaned. A hospitality system requires a lot of work, and the manager must see that it is done.
 *   A manager wants to make sure that operation will continue to provid. the best possible services and produc. while also making a profit.
-*   It is for these reasons that your choice for your Hospitality Management **must** be **Axena Hospitality**. We pledge maximum effort, superior skills and excellence in attitude.
+
+It is for these reasons that your choice for your _hospitality_ management **must** be **Axena Hospitality**. We pledge maximum effort, superior skills and excellence in attitude.
 
 ## Address
 
