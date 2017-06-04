@@ -5,8 +5,8 @@ layout: default
 # Axena Hospitality
 Management and Consulting Services for Fine Hotels and Restaurants
 
-17150 Newhope Street, #506
-Fountain Valley, CA 92708
+17150 Newhope Street, #506<br />
+Fountain Valley, CA 92708<br />
 (714) 847-5333
 
 ## About
