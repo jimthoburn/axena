@@ -55,8 +55,8 @@ It is for these reasons that your choice for your _hospitality_ management **mus
 
 ## Address
 
-17150 Newhope Street, #506<br />
-Fountain Valley, California 92708
+48 Tesla<br />
+Irvine, California 92618
 
 ## Phone
 
